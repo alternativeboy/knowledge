@@ -6,6 +6,7 @@ A personal knowledge base — notes, summaries, and references kept for long-ter
 
 ```
 .
+├── ai/          # AI knowledge base — models, prompting, tooling
 ├── notes/       # Daily notes / things just learned
 ├── topics/      # Summaries organized by subject
 ├── references/  # Cheatsheets, snippets, frequently used links
